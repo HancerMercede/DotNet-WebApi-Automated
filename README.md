@@ -50,7 +50,7 @@ Before using this script, ensure you have the following installed:
 
 1. **Download the Script**
 
-   The script is already located at: `C:\Users\HANCER MERCEDE\Scripts\New-WebApi.ps1`
+   The script is already located at: `$HOME\Scripts\New-WebApi.ps1`
 
 2. **Make the Script Accessible (Optional)**
 
@@ -194,8 +194,8 @@ ProjectName/
 #### "The term '.\New-WebApi.ps1' is not recognized..."
 
 **Solution:**
-- Ensure you're in the correct directory (`C:\Users\HANCER MERCEDE\Scripts`)
-- Use the full path: `& "C:\Users\HANCER MERCEDE\Scripts\New-WebApi.ps1" -ProjectName "MyApi"`
+- Ensure you're in the correct directory (`$HOME\Scripts` or `%USERPROFILE%\Scripts`)
+- Use the full path: `& "$HOME\Scripts\New-WebApi.ps1" -ProjectName "MyApi"`
 
 #### "Project name is invalid"
 
@@ -271,3 +271,4 @@ Suggestions for improving this script are welcome! Consider these enhancements:
 **Script Version:** 1.0  
 **Last Updated:** 2025-06-19  
 **Author:** System Administrator
+
