@@ -270,5 +270,5 @@ Suggestions for improving this script are welcome! Consider these enhancements:
 
 **Script Version:** 1.0  
 **Last Updated:** 2025-06-19  
-**Author:** Hancer Mercedes
+**Author:** System Administrator
 
